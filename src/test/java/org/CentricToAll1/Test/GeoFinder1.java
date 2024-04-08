@@ -34,7 +34,8 @@ public class GeoFinder1
                 .when().log().all()
                 .get()
 
-                .then().log().all().statusCode(201);
+                .then().log().all().statusCode(200);
+        //Manipulate the status code as per need
 
 // log(). all() needs to be added post given() section. This will print the response body regardless if an error occurred. given().
     }
