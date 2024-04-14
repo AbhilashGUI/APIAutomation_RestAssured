@@ -41,4 +41,4 @@ public class BDDStyle
 
 
 }
-//Note: Can create a new testng.xml file post every execution by deleting the existing one
+//Note: Can create a new testngallanotations.xml file post every execution by deleting the existing one
