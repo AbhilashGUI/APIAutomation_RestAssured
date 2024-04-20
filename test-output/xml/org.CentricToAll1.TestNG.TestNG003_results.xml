@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Users/Admin/IdeaProjects/APIAutomation_RestAssured/src/test/java/org/CentricToAll1/TestNG/TestNG003.java"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="15.062">
+    <properties></properties>
+
+
+
+            <testcase
+                name="NONBDDStylePutRequest"
+                time="15.062"
+                classname="org.CentricToAll1.TestNG.TestNG003">
+            </testcase>
+</testsuite>

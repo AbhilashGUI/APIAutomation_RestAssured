@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIAutomation_RestAssured"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.016">
+    <properties></properties>
+
+
+
+            <testcase
+                name="Putrequest2"
+                time="0.016"
+                classname="org.CentricToAll1.TestNG.TestNG004">
+            </testcase>
+            <testcase
+                name="Putrequest"
+                time="0.000"
+                classname="org.CentricToAll1.TestNG.TestNG004">
+            </testcase>
+</testsuite>

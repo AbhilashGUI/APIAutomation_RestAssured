@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIAutomation_RestAssured"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5.348">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testNONBDDStylePositive"
+                time="5.348"
+                classname="org.CentricToAll1.Test.CRUD.PUT.NONBDDStyle1">
+            </testcase>
+</testsuite>
