@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Admin/IdeaProjects/APIAutomation_RestAssured/src/test/java/org/CentricToAll1/Test/CRUD/POST/BDDStyle.java">
+        <classes>
+            <class name="org.CentricToAll1.Test.CRUD.POST.BDDStyle">
+                <methods>
+                    <include name="testBDDStylePositive"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

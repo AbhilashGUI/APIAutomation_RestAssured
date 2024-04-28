@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Users/Admin/IdeaProjects/APIAutomation_RestAssured/src/test/java/org/CentricToAll1/TestNG/TestNG014.java"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.047">
+    <properties></properties>
+
+
+
+            <testcase
+                name="demo"
+                time="0.047"
+                classname="org.CentricToAll1.TestNG.TestNG014">
+            </testcase>
+</testsuite>

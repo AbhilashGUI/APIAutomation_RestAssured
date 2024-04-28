@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="org.CentricToAll1.TestNG.Listeners.CustomListeners2"/>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="C:/Users/Admin/IdeaProjects/APIAutomation_RestAssured/src/test/java/org/CentricToAll1/TestNG/Listeners/TC002.java">
+        <groups>
+                <run>
+        <include name="smoke"/>
+        <include name="sanity"/>
+        <include name="regression"/>
+                </run>
+        </groups>>
+        <classes>
+            <class name="org.CentricToAll1.TestNG.Listeners.TC002">
+            </class>
+        </classes>
+    </test>
+</suite>

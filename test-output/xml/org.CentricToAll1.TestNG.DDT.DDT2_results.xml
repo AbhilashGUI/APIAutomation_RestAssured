@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIAutomation_RestAssured"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="4.504">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testlogin"
+                time="0.705"
+                classname="org.CentricToAll1.TestNG.DDT.DDT2">
+            </testcase>
+            <testcase
+                name="testlogin"
+                time="0.642"
+                classname="org.CentricToAll1.TestNG.DDT.DDT2">
+            </testcase>
+            <testcase
+                name="testlogin"
+                time="3.157"
+                classname="org.CentricToAll1.TestNG.DDT.DDT2">
+            </testcase>
+</testsuite>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Admin/IdeaProjects/APIAutomation_RestAssured/src/test/java/org/CentricToAll1/TestNG/TestNG008.java">
+        <groups>
+            <run>
+                <include name="Reg"></include>
+                <exclude name="Sanity"></exclude>
+            </run>
+        </groups>
+        <classes>
+            <class name="org.CentricToAll1.TestNG.TestNG008"></class>
+        </classes>
+    </test>
+</suite>

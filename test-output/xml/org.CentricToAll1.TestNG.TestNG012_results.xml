@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIAutomation_RestAssured"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.030">
+    <properties></properties>
+
+
+
+            <testcase
+                name="initEnvironment"
+                time="0.015"
+                classname="org.CentricToAll1.TestNG.TestNG012">
+            </testcase>
+            <testcase
+                name="initServerStartedOk"
+                time="0.000"
+                classname="org.CentricToAll1.TestNG.TestNG012">
+            </testcase>
+            <testcase
+                name="method1"
+                time="0.015"
+                classname="org.CentricToAll1.TestNG.TestNG012">
+            </testcase>
+</testsuite>

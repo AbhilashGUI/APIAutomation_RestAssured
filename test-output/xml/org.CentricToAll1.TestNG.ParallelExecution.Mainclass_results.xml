@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="C:/Users/Admin/IdeaProjects/APIAutomation_RestAssured/src/test/java/org/CentricToAll1/TestNG/ParallelExecution/Mainclass.java"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.016">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testMethodsTwo"
+                time="0.016"
+                classname="org.CentricToAll1.TestNG.ParallelExecution.Mainclass">
+            </testcase>
+            <testcase
+                name="testMethodsOne"
+                time="0.000"
+                classname="org.CentricToAll1.TestNG.ParallelExecution.Mainclass">
+            </testcase>
+</testsuite>

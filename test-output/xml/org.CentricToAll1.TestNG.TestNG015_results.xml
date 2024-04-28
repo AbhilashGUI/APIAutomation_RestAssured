@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIAutomation_RestAssured"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.016">
+    <properties></properties>
+
+
+
+            <testcase
+                name="loginTest"
+                time="0.000"
+                classname="org.CentricToAll1.TestNG.TestNG015">
+            </testcase>
+            <testcase
+                name="loginTest"
+                time="0.000"
+                classname="org.CentricToAll1.TestNG.TestNG015">
+            </testcase>
+            <testcase
+                name="loginTest"
+                time="0.000"
+                classname="org.CentricToAll1.TestNG.TestNG015">
+            </testcase>
+            <testcase
+                name="loginTest"
+                time="0.016"
+                classname="org.CentricToAll1.TestNG.TestNG015">
+            </testcase>
+</testsuite>
