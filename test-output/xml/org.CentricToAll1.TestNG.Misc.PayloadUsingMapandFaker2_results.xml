@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="APIAutomation_RestAssured"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="5.082">
+    <properties></properties>
+
+
+
+            <testcase
+                name="testPostreq"
+                time="5.082"
+                classname="org.CentricToAll1.TestNG.Misc.PayloadUsingMapandFaker2">
+            </testcase>
+</testsuite>
