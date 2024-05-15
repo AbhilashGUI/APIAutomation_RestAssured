@@ -4,14 +4,14 @@
            failures="0"
            errors="0"
            skipped="0"
-           time="4.978">
+           time="7.193">
     <properties></properties>
 
 
 
             <testcase
                 name="testPostreq"
-                time="4.978"
+                time="7.193"
                 classname="org.CentricToAll1.TestNG.Misc.PayloadUsingMap1">
             </testcase>
 </testsuite>
